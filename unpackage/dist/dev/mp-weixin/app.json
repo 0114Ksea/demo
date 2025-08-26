@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/auth/login",
+    "pages/auth/register",
+    "pages/customer/services",
+    "pages/customer/service-detail",
+    "pages/customer/booking",
+    "pages/customer/orders"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "服务预约",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#1989fa",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/customer/services",
+        "text": "服务"
+      },
+      {
+        "pagePath": "pages/customer/orders",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/auth/login",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

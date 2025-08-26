@@ -1,0 +1,122 @@
+
+.orders-page.data-v-27d44dcb {
+  padding-bottom: 20rpx;
+}
+.status-filter.data-v-27d44dcb {
+  display: flex;
+  background-color: #fff;
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #eee;
+  overflow-x: auto;
+}
+.filter-item.data-v-27d44dcb {
+  flex: 1;
+  text-align: center;
+  padding: 16rpx 0;
+  font-size: 28rpx;
+  color: #666;
+  min-width: 140rpx;
+}
+.filter-item.active.data-v-27d44dcb {
+  color: #1989fa;
+  font-weight: bold;
+  border-bottom: 4rpx solid #1989fa;
+}
+.order-list.data-v-27d44dcb {
+  padding: 20rpx;
+}
+.order-item.data-v-27d44dcb {
+  background-color: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2rpx 10rpx rgba(0, 0, 0, 0.05);
+}
+.merchant-info.data-v-27d44dcb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+.merchant-name.data-v-27d44dcb {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #333;
+}
+.order-status.data-v-27d44dcb {
+  font-size: 26rpx;
+  padding: 4rpx 16rpx;
+  border-radius: 16rpx;
+}
+.order-status.pending.data-v-27d44dcb {
+  background-color: #fff0e6;
+  color: #ff6b3b;
+}
+.order-status.confirmed.data-v-27d44dcb {
+  background-color: #e6f7ff;
+  color: #1890ff;
+}
+.order-status.completed.data-v-27d44dcb {
+  background-color: #f6ffed;
+  color: #52c41a;
+}
+.order-status.canceled.data-v-27d44dcb {
+  background-color: #f5f5f5;
+  color: #999;
+}
+.service-info.data-v-27d44dcb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20rpx 0;
+  border-top: 1rpx solid #f0f0f0;
+  border-bottom: 1rpx solid #f0f0f0;
+  margin-bottom: 20rpx;
+}
+.service-name.data-v-27d44dcb {
+  font-size: 28rpx;
+  color: #333;
+}
+.service-price.data-v-27d44dcb {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #E64340;
+}
+.booking-info.data-v-27d44dcb {
+  margin-bottom: 20rpx;
+}
+.booking-date.data-v-27d44dcb,
+.booking-time.data-v-27d44dcb,
+.contact-info.data-v-27d44dcb {
+  font-size: 26rpx;
+  color: #666;
+  margin-bottom: 12rpx;
+}
+.order-actions.data-v-27d44dcb {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20rpx;
+}
+.cancel-btn.data-v-27d44dcb {
+  color: #999;
+  border: 1rpx solid #ddd;
+}
+.contact-btn.data-v-27d44dcb {
+  color: #1989fa;
+  border: 1rpx solid #1989fa;
+}
+.view-btn.data-v-27d44dcb {
+  color: #1989fa;
+}
+.empty-tip.data-v-27d44dcb {
+  padding: 100rpx 0;
+  text-align: center;
+  color: #999;
+  font-size: 28rpx;
+}
+.loading.data-v-27d44dcb {
+  padding: 20rpx 0;
+  text-align: center;
+  color: #999;
+  font-size: 28rpx;
+}

@@ -1,0 +1,75 @@
+
+.booking-page.data-v-33263869 {
+  padding-bottom: 120rpx;
+}
+.service-info.data-v-33263869 {
+  padding: 30rpx 20rpx;
+  background-color: #fff;
+  border-bottom: 1rpx solid #eee;
+}
+.service-name.data-v-33263869 {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 12rpx;
+}
+.service-meta.data-v-33263869 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 28rpx;
+}
+.merchant-name.data-v-33263869 {
+  color: #666;
+}
+.service-price.data-v-33263869 {
+  color: #E64340;
+  font-weight: bold;
+}
+.booking-form.data-v-33263869 {
+  margin-top: 20rpx;
+  padding: 20rpx;
+  background-color: #fff;
+}
+.form-item.data-v-33263869 {
+  margin-bottom: 30rpx;
+}
+.label.data-v-33263869 {
+  font-size: 28rpx;
+  color: #333;
+  margin-bottom: 16rpx;
+}
+.time-slots.data-v-33263869 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}
+.time-slot.data-v-33263869 {
+  padding: 16rpx 28rpx;
+  background-color: #f5f5f5;
+  border-radius: 8rpx;
+  font-size: 26rpx;
+  color: #666;
+}
+.time-slot.selected.data-v-33263869 {
+  background-color: #1989fa;
+  color: #fff;
+}
+.no-slots.data-v-33263869 {
+  padding: 40rpx 0;
+  text-align: center;
+  color: #999;
+  font-size: 26rpx;
+}
+.bottom-bar.data-v-33263869 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20rpx;
+  background-color: #fff;
+  border-top: 1rpx solid #eee;
+}
+.submit-btn.data-v-33263869 {
+  width: 100%;
+}
